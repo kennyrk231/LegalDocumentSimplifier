@@ -34,7 +34,10 @@ NLTK
 spaCy
 Transformers
 Scikit-learn
+
+
 📌 How It Works
+
 Users upload a legal document.
 The system processes the text using NLP techniques.
 Complex legal terms and clauses are identified.
